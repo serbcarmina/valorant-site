@@ -1,2 +1,2 @@
 # valorant-site
-https://github.com/serbcarmina/valorant-site.git
+https://serbcarmina.github.io/valorant-site/
